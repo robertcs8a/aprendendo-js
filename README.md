@@ -1,3 +1,3 @@
 # Aprendendo Java Script
-by Gustavo Guanabara
- codigos em estudo
+by Gustavo Guanabara.
+ codigos em estudo.
